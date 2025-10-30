@@ -1,0 +1,1 @@
+input("Hola soy el mozo") 
